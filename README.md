@@ -5,7 +5,6 @@
 
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=naufalbasara&hide=issues&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats'></img>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalbasara&theme=ocean_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![](https://komarev.com/ghpvc/?username=naufalbasara&color=gray)
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=naufalbasara&theme=ocean_dark&layout=compact'></img>
+ <img src='https://komarev.com/ghpvc/?username=naufalbasara&color=gray'></img>
 </div>
