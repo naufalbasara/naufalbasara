@@ -1,10 +1,22 @@
-### Hi there 👋
+# Hello world!👋
 
-- 🔭 I’m currently study in Sepuluh Nopember Institute of Technology as Information Systems student
-- 🌱 I’m currently learning website development and Javascript frameworks
+- 🏫 I’m currently study in Sepuluh Nopember Institute of Technology as Information Systems student
 
-<div style="display: flex; flex-direction: column; align-items:center">
- <img src='https://github-readme-stats.vercel.app/api?username=naufalbasara&hide=issues&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats'></img>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=naufalbasara&theme=ocean_dark&layout=compact'></img>
+## Tech Stack
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</span>
+
+
+## Statistics
+<div>
+ <a src='https://github.com/naufalbasara?tab=repositories&q=&type=&language='><img src='https://github-readme-stats.vercel.app/api?username=naufalbasara&hide=issues&theme=ocean_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats' height='154'></img></a>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=naufalbasara&theme=ocean_dark&layout=compact' height='154'></img><br>
  <img src='https://komarev.com/ghpvc/?username=naufalbasara&color=gray'></img>
 </div>
