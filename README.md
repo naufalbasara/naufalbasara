@@ -16,8 +16,8 @@
 
 ## Statistics
 <div>
- <a src='https://github.com/naufalbasara?tab=repositories&q=&type=&language='><img src='https://github-readme-stats.vercel.app/api?username=naufalbasara&hide=issues&bg_color=0F3517&title_color=EA9221&text_color=A56717&layout=compact)](https://github.com/anuraghazra/github-readme-stats' height='154'></img></a>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=naufalbasara&bg_color=0F3517&title_color=EA9221&text_color=A56717&layout=compact' height='154'></img><br>
+ <a src='https://github.com/naufalbasara?tab=repositories&q=&type=&language='><img src='https://github-readme-stats-sigma-five.vercel.app/api?username=naufalbasara&hide=issues&bg_color=0F3517&title_color=EA9221&text_color=A56717&layout=compact)](https://github.com/anuraghazra/github-readme-stats' height='154'></img></a>
+ <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naufalbasara&bg_color=0F3517&title_color=EA9221&text_color=A56717&layout=compact' height='154'></img><br>
  <img src='https://github-readme-streak-stats.herokuapp.com?user=naufalbasara&theme=earth&border_radius=5&background=0F3517&stroke=000000&fire=DD2727' height='305'></img> <br>
  <img src='https://komarev.com/ghpvc/?username=naufalbasara&color=gray'></img>
 </div>
