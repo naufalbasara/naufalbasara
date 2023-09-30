@@ -1,6 +1,7 @@
 # Hello world!👋
 
 - 🏫 I’m currently study in Sepuluh Nopember Institute of Technology as Information Systems student
+- 🤝 I particularly interested in exploring opportunities to work with Tensorflow environment. I'm open for discussions of projects, partnership, or hiring
 
 ## Tech Stack
 <span>
