@@ -1,6 +1,7 @@
 # Hello world!👋
 
 - 🏫 I’m currently study in Sepuluh Nopember Institute of Technology as Information Systems student
+- 🚀 Currently focusing on sharpening intuition in computer vision, natural language processing, and recommender system 
 - 🤝 I particularly interested in exploring opportunities to work with Tensorflow environment. I'm open for discussions of projects, partnership, or hiring
 
 ## Tech Stack
