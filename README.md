@@ -9,7 +9,7 @@ I'm a motivated Information Systems graduate with deep passion and keen interest
 
 # 🚀 Technologies
 
-## Programming Languages & Tools
+### Programming Languages & Tools
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Java](https://img.shields.io/badge/Java-e8903d?style=for-the-badge&logo=java)
